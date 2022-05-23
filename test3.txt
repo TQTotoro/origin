@@ -1,0 +1,3 @@
+test the useage of tail
+It is powerful
+end of test
